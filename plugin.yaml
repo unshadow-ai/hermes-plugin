@@ -1,0 +1,5 @@
+name: unshadow
+version: 0.4.0
+description: Project memory with automatic source-backed recall and durable turn capture.
+pip_dependencies:
+  - unshadow==0.4.0
